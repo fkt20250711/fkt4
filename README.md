@@ -16,4 +16,4 @@
 
 本站不仅仅是一个资源平台，更是一个互动社区，您可以在平台上与其他影迷分享心得、评分、讨论影片内容。无论您是新手用户还是老影迷，都可以在这里找到合适的内容，让您的娱乐生活更加丰富多彩。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/fkt20250711/fkt4)</span>
